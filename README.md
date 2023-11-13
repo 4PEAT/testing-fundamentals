@@ -1,3 +1,37 @@
+# IMPORTANT
+##### Please don't forget to add the dependencies in your pom.xml file from the project:
+-
+```xml
+<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+<dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter-api</artifactId>
+    <version>5.7.0-M1</version>
+    <scope>test</scope>
+</dependency>
+```
+-
+```xml 
+<!-- https://mvnrepository.com/artifact/org.assertj/assertj-core -->
+<dependency>
+    <groupId>org.assertj</groupId>
+    <artifactId>assertj-core</artifactId>
+    <version>3.16.1</version>
+    <scope>test</scope>
+</dependency>
+```
+-
+```xml 
+<dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter-params</artifactId>
+    <version>5.6.1</version><!-- the current version may change -->
+    <scope>test</scope>
+</dependency>
+```
+
+
+
 # Example 1
   **Used classes:**
   ```java
