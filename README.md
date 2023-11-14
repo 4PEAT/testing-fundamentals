@@ -1,6 +1,6 @@
 # IMPORTANT
 ##### Please don't forget to add the dependencies in your pom.xml file from the project.
-To use these dependencies in a Maven project, you should place it within the <dependencies> section of your project's pom.xml file.
+To use these dependencies in a Maven project, you should place them between the ```<dependencies></dependencies>``` section of your project's pom.xml file.
 -
 ```xml
 <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
