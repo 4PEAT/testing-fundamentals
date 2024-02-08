@@ -1,4 +1,3 @@
-https://www.onlinenotepad.io?edit-id=nGwaoYJQlw880dd1b3
 
 # IMPORTANT
 #### To use these dependencies in a Maven project, you should place them within the ```<dependencies></dependencies>``` section of your project's pom.xml file. 
