@@ -18,4 +18,4 @@
 
 #### Test Method Addition:
 - Write a test method `testComputeSquareRoot_NegativeInput_ThrowsIllegalArgumentException` that:
-  - Uses `assertThrows` to verify that an `IllegalArgumentException` is thrown when `computeSquareRoot` is called with a negative number.
+  - Uses `assertThrows` to verify that an `IllegalArgumentException` is thrown when `computeSquareRoot` is called with a negative number
